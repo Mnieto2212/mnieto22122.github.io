@@ -7,7 +7,7 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Mnieto2212.github.io',
+  site: 'https://mnieto2212.github.io',
   // base: '/',
   vite: {
     plugins: [tailwindcss()]
