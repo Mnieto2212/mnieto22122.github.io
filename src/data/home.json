@@ -1,10 +1,10 @@
 {
   "name": "Moisés Nieto",
   "photoUrl": "1767715775623.png",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "intro": "Ingeniero Industrial enfocado en análisis de datos, business intelligence, mejora de procesos y transformación digital. Me interesa transformar datos en información útil para apoyar decisiones, optimizar procesos y generar impacto en el negocio.",
+  "introHtml": "Ingeniero Industrial enfocado en <span class='text-white font-bold'>análisis de datos</span>, <span class='text-white font-bold'>business intelligence</span>, <span class='text-white font-bold'>mejora de procesos</span> y <span class='text-white font-bold'>transformación digital</span>. Me interesa transformar datos en información útil para apoyar decisiones, optimizar procesos y generar impacto en el negocio.",
   "webpageTitle": "Moisés Nieto | Portafolio",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "resumeUrl": "Moisés_Nieto_CV.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
