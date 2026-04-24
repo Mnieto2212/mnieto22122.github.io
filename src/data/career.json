@@ -14,13 +14,5 @@
     "type": "Práctica profesional",
     "description": "Desarrollé dashboards en Power BI para monitorear vacaciones, disponibilidad y asignación de personal. Construí y actualicé una base de datos en Excel para reportabilidad, mejorando el control de información y reduciendo el tiempo de revisión manual.",
     "skills": ["Power BI", "Excel", "Reporting", "Análisis de datos", "SQL", "Bizagi"]
-  },
-  {
-    "company": "Universidad Andrés Bello",
-    "role": "Ingeniería Industrial",
-    "period": "Dic 2025",
-    "type": "Formación académica",
-    "description": "Formación en análisis de datos, mejora de procesos, análisis operacional y transformación digital, con desarrollo de proyecto de título aplicado a una empresa distribuidora de agua purificada.",
-    "skills": ["Procesos", "Transformación digital", "Análisis operacional"]
   }
 ]
