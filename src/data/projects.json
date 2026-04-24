@@ -9,15 +9,6 @@
     "category": "Proyecto de Título"
   },
   {
-    "title": "Dashboard de vacaciones y disponibilidad de personal",
-    "description": "Desarrollé dashboards en Power BI para monitorear vacaciones, disponibilidad y asignación de personal. También construí una base de datos en Excel para mejorar el control de la información y reducir la revisión manual.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Power BI", "Excel", "KPIs", "Reporting"],
-    "platforms": ["web"],
-    "link": "#",
-    "category": "Análisis de Datos"
-  },
-  {
     "title": "Estudio de mercado y benchmarking para alimentos de gatos",
     "description": "Realicé un estudio de mercado para evaluar oportunidades de entrada, benchmarking competitivo, revisión normativa y recomendación ejecutiva de productos y canales para gerencia.",
     "images": ["astro-01.webp", "astro-02.jpeg"],
