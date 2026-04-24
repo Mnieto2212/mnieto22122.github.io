@@ -1,26 +1,26 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "INROPLAS Chile",
+    "role": "Practicante de Ingeniería Industrial — Análisis Comercial y de Mercado",
+    "period": "Feb 2026",
+    "type": "Práctica profesional",
+    "description": "Desarrollé un estudio de mercado para la categoría de alimentos para gatos en Chile. Evalué productos, realicé benchmarking competitivo, revisé factibilidad normativa y elaboré una presentación ejecutiva para gerencia con recomendaciones de productos y canales de entrada.",
+    "skills": ["Estudio de mercado", "Benchmarking", "Análisis comercial", "Investigación de mercado", "Excel"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Factor IT",
+    "role": "Practicante de Ingeniería Industrial — Análisis de Datos y Procesos",
+    "period": "Mar 2024",
+    "type": "Práctica profesional",
+    "description": "Desarrollé dashboards en Power BI para monitorear vacaciones, disponibilidad y asignación de personal. Construí y actualicé una base de datos en Excel para reportabilidad, mejorando el control de información y reduciendo el tiempo de revisión manual.",
+    "skills": ["Power BI", "Excel", "Reporting", "Análisis de datos", "SQL", "Bizagi"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Universidad Andrés Bello",
+    "role": "Ingeniería Industrial",
+    "period": "Dic 2025",
+    "type": "Formación académica",
+    "description": "Formación en análisis de datos, mejora de procesos, análisis operacional y transformación digital, con desarrollo de proyecto de título aplicado a una empresa distribuidora de agua purificada.",
+    "skills": ["Procesos", "Transformación digital", "Análisis operacional"]
   }
 ]
