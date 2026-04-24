@@ -1,20 +1,29 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
+    "title": "Transformación digital para distribuidora de agua purificada",
+    "description": "Diseñé una propuesta de transformación digital enfocada en pedidos, pagos y seguimiento de bidones. Analicé procesos AS-IS / TO-BE, comparé plataformas CRM y estimé una reducción del tiempo total del proceso mediante simulación.",
     "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "tech": ["Bizagi", "Análisis de procesos", "CRM", "Transformación digital"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "#",
+    "category": "Proyecto de Título"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Dashboard de vacaciones y disponibilidad de personal",
+    "description": "Desarrollé dashboards en Power BI para monitorear vacaciones, disponibilidad y asignación de personal. También construí una base de datos en Excel para mejorar el control de la información y reducir la revisión manual.",
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Power BI", "Excel", "KPIs", "Reporting"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Análisis de Datos"
+  },
+  {
+    "title": "Estudio de mercado y benchmarking para alimentos de gatos",
+    "description": "Realicé un estudio de mercado para evaluar oportunidades de entrada, benchmarking competitivo, revisión normativa y recomendación ejecutiva de productos y canales para gerencia.",
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Benchmarking", "Análisis comercial", "Investigación de mercado", "Presentación ejecutiva"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Análisis Comercial"
   }
 ]
