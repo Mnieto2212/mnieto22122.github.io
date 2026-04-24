@@ -11,9 +11,9 @@
     {
       "title": "BI y Visualización",
       "skills": [
-        { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" },
-        { "name": "Tableau", "level": 3, "icon": "logos:tableau-icon" },
-        { "name": "Looker Studio", "level": 2, "icon": "logos:google-data-studio" }
+        { "name": "Power BI", "level": 3, "icon": "mdi:chart-bar" },
+        { "name": "Tableau", "level": 2, "icon": "mdi:view-dashboard" },
+        { "name": "Looker Studio", "level": 2, "icon": "mdi:google-analytics" }
       ]
     },
     {
@@ -28,7 +28,7 @@
       "title": "Procesos y Negocio",
       "skills": [
         { "name": "Bizagi", "level": 2, "icon": "mdi:graph-outline" },
-        { "name": "ERP/SAP", "level": 1, "icon": "simple-icons:sap" },
+        { "name": "ERP/SAP", "level": 1, "icon": "mdi:domain" },
         { "name": "CRM", "level": 2, "icon": "mdi:account-group-outline" }
       ]
     }
