@@ -1,35 +1,35 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Análisis de Datos",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
-      ]
-    },
-    {
-      "title": "Frontend",
-      "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
-      ]
-    },
-    {
-      "title": "Backend",
-      "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
+        { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
         { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "R", "level": 2, "icon": "skill-icons:r-dark" }
       ]
     },
     {
-      "title": "Database",
+      "title": "BI y Visualización",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Power BI", "level": 3, "icon": "skill-icons:powerbi-dark" },
+        { "name": "Tableau", "level": 3, "icon": "logos:tableau-icon" },
+        { "name": "Looker Studio", "level": 2, "icon": "logos:google-data-studio" }
+      ]
+    },
+    {
+      "title": "Herramientas de Análisis",
+      "skills": [
+        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
+        { "name": "Power Query", "level": 2, "icon": "mdi:table-arrow-right" },
+        { "name": "DAX", "level": 2, "icon": "mdi:function-variant" }
+      ]
+    },
+    {
+      "title": "Procesos y Negocio",
+      "skills": [
+        { "name": "Bizagi", "level": 2, "icon": "mdi:graph-outline" },
+        { "name": "ERP/SAP", "level": 1, "icon": "simple-icons:sap" },
+        { "name": "CRM", "level": 2, "icon": "mdi:account-group-outline" }
       ]
     }
   ]
