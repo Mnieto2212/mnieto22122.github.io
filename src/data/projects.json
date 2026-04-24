@@ -7,14 +7,5 @@
     "platforms": ["web"],
     "link": "#",
     "category": "Proyecto de Título"
-  },
-  {
-    "title": "Estudio de mercado y benchmarking para alimentos de gatos",
-    "description": "Realicé un estudio de mercado para evaluar oportunidades de entrada, benchmarking competitivo, revisión normativa y recomendación ejecutiva de productos y canales para gerencia.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Benchmarking", "Análisis comercial", "Investigación de mercado", "Presentación ejecutiva"],
-    "platforms": ["web"],
-    "link": "#",
-    "category": "Análisis Comercial"
   }
 ]
