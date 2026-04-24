@@ -40,7 +40,7 @@
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "",
       "icon": "mdi:whatsapp",
       "showInContact": false
     },
