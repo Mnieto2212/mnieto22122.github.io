@@ -1,11 +1,11 @@
 [
   {
-    "title": "Transformación digital para distribuidora de agua purificada",
-    "description": "Diseñé una propuesta de transformación digital enfocada en pedidos, pagos y seguimiento de bidones. Analicé procesos AS-IS / TO-BE, comparé plataformas CRM y estimé una reducción del tiempo total del proceso mediante simulación.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Bizagi", "Análisis de procesos", "CRM", "Transformación digital"],
+    "title": "Dashboard de Ventas y Ganancias",
+    "description": "Dashboard interactivo desarrollado en Tableau Public para analizar ventas, ganancias, volumen por segmento, desempeño por región y contribución de productos mediante análisis Pareto 80/20.",
+    "images": ["tableau-ventas.webp"],
+    "tech": ["Tableau", "Análisis de datos", "Visualización de datos", "KPIs"],
     "platforms": ["web"],
-    "link": "#",
-    "category": "Proyecto de Título"
+    "link": "https://public.tableau.com/views/AnalisisdeVentasyGanacias/DashboardVentas?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "category": "Tableau Public"
   }
 ]
