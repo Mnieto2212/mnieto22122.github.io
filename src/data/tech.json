@@ -11,7 +11,7 @@
     {
       "title": "BI y Visualización",
       "skills": [
-        { "name": "Power BI", "level": 3, "icon": "mdi:chart-bar" },
+        { "name": "Power BI", "level": 3, "icon": "skill-icons:PowerBI.png" },
         { "name": "Tableau", "level": 2, "icon": "mdi:view-dashboard" },
         { "name": "Looker Studio", "level": 2, "icon": "mdi:google-analytics" }
       ]
